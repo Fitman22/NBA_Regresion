@@ -27,4 +27,4 @@ se selecciono el csv de game del dataset
 
 [Video]()
 
-[Repositorio](https://github.com/Fitman22/NBA_Regresion/edit/main/README.md)
+[Repositorio](https://github.com/Fitman22/NBA_Regresion/edit/main/)
