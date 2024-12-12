@@ -2,6 +2,8 @@
 
 ![banner](banner.png)
 
+## Autores:
+
 Brandon David Jaimes Castro, Kevin Steven Quintero, Kevin Dannie Guzman
 
 ## Objetivo:
@@ -22,5 +24,7 @@ se selecciono el csv de game del dataset
 ## Enlaces:
 
 [Codigo_Notebook](https://colab.research.google.com/drive/146auEtLQLDj4AD_XGkAHrkAtoxnohydF?usp=sharing#scrollTo=kPYemQDgIbv0)
+
 [Video]()
+
 [Repositorio](https://github.com/Fitman22/NBA_Regresion/edit/main/README.md)
