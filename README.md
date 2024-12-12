@@ -20,6 +20,7 @@ se selecciono el csv de game del dataset
 - Decision tree
 - Random Forest
 - SVR
+- DNN
 
 ## Enlaces:
 
@@ -27,4 +28,4 @@ se selecciono el csv de game del dataset
 
 [Video]()
 
-[Repositorio](https://github.com/Fitman22/NBA_Regresion/edit/main/)
+[Repositorio]((https://github.com/Fitman22/NBA_Regresion/tree/main)
