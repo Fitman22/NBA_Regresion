@@ -26,6 +26,6 @@ se selecciono el csv de game del dataset
 
 [Codigo_Notebook](https://colab.research.google.com/drive/146auEtLQLDj4AD_XGkAHrkAtoxnohydF?usp=sharing#scrollTo=kPYemQDgIbv0)
 
-[Video]()
+[Video](https://youtu.be/KxQ9rVf7Th8)
 
 [Repositorio](https://github.com/Fitman22/NBA_Regresion/tree/main)
